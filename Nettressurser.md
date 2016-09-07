@@ -1,8 +1,8 @@
-## Nettressurser
+## Nettressurser diverse
 
 * Data on the Web Best Practices: https://www.w3.org/TR/dwbp/
 
-Utgangspunkt for nasjonal arkitektur i Norge, er forslagene og standardene i EU.
+# Utgangspunkt for nasjonal arkitektur i Norge, er forslagene og standardene i EU.
 ## Nettressurser
 * https://joinup.ec.europa.eu/#
 * Danmark Arkitekturguiden: http://arkitekturguiden.digitaliser.dk/
